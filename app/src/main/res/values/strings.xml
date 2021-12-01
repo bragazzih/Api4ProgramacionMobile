@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TokenGenerator</string>
+    <string name="TokenGeneratorText">Welcome to token generator</string>
+    <string name="GenerateTokenTitle">Generate token</string>
+    <string name="GenerateButton">Generate</string>
+    <string name="ShowToken">Here is your generated token</string>
+    <string-array name="Spinner">Token></string-array>
+    <string name="AddNewToken">Add a new token name</string>
+    <string name="InsertName">Insert your token name above</string>
+    <string name="Add">Add</string>
+    <string name="GenerateTokenMain">Generate token</string>
+    <string name="AddNewTokenMain">Add new token name</string>
+</resources>
